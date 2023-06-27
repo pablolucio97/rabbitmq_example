@@ -1,0 +1,4 @@
+rabbitmq_consumer/node_modules
+rabbitmq_publisher/node_modules
+rabbitmq_consumer/.env
+rabbitmq_publisher/.env
